@@ -1,0 +1,1 @@
+Olá este projeto ensina a fazer uma land page responsiva.
